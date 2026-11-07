@@ -7,8 +7,6 @@
 **Mathematics & Computer Science at Boston University**  
 Minor in Economics · Class of 2027
 
-[Projects](#selected-projects) · [Technical Skills](#technical-skills) · [Experience](#experience) · [GitHub](https://github.com/augahmed?tab=repositories)
-
 </div>
 
 ---

@@ -60,13 +60,48 @@ Recently, I've been focused on building useful AI-powered applications and makin
 
 ### Technical Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,python,java,ts,react,rust,postgres,docker,git,linux&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,python,java,ts,react,rust,postgres,docker,git,linux&theme=light" />
-  <img src="https://skillicons.dev/icons?i=go,python,java,ts,react,rust,postgres,docker,git,linux&theme=light" alt="Go, Python, Java, TypeScript, React, Rust, PostgreSQL, Docker, Git, Linux" />
-</picture>
+A mix of tools I have used in coursework, internships, and personal projects.
 
-**Other tools and frameworks:** SQL, JavaScript, Spring Boot, React Native, SQLite, Supabase, ONNX Runtime, Cucumber.
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-30363D?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="25" />
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" height="25" />
+  <img src="https://img.shields.io/badge/Go-30363D?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" height="25" />
+  <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" height="25" />
+  <img src="https://img.shields.io/badge/TypeScript-30363D?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25" />
+  <img src="https://img.shields.io/badge/C-30363D?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" height="25" />
+  <img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/Rust-30363D?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" height="25" />
+  <img src="https://img.shields.io/badge/R-30363D?style=flat-square&amp;logo=r&amp;logoColor=white" alt="R" height="25" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-30363D?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="25" />
+  <img src="https://img.shields.io/badge/React_Native-30363D?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React Native" height="25" />
+  <img src="https://img.shields.io/badge/Node.js-30363D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/Expo-30363D?style=flat-square&amp;logo=expo&amp;logoColor=white" alt="Expo" height="25" />
+  <img src="https://img.shields.io/badge/Cucumber-30363D?style=flat-square&amp;logo=cucumber&amp;logoColor=white" alt="Cucumber" height="25" />
+  <img src="https://img.shields.io/badge/React-30363D?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" height="25" />
+  <img src="https://img.shields.io/badge/Tauri-30363D?style=flat-square&amp;logo=tauri&amp;logoColor=white" alt="Tauri" height="25" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-30363D?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="25" />
+  <img src="https://img.shields.io/badge/Docker-30363D?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" height="25" />
+  <img src="https://img.shields.io/badge/Linux-30363D?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" height="25" />
+  <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="25" />
+  <img src="https://img.shields.io/badge/Supabase-30363D?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" height="25" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-30363D?style=flat-square&amp;logo=githubcopilot&amp;logoColor=white" alt="GitHub Copilot" height="25" />
+  <img src="https://img.shields.io/badge/Jira-30363D?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira" height="25" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-30363D?style=flat-square&amp;logo=onnx&amp;logoColor=white" alt="ONNX Runtime" height="25" />
+  <img src="https://img.shields.io/badge/SQLite-30363D?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" height="25" />
+</p>
+
 
 ### Experience
 

@@ -13,9 +13,9 @@ Minor in Economics · Class of 2027
 
 ### About Me
 
-I'm a computer science student who enjoys working across the stack, particularly on problems involving AI, search, and distributed systems. I like understanding how things work under the hood, whether that's training a small language model from scratch or figuring out why a distributed test fails under a network partition.
+I'm a mathematics and computer science student who enjoys working on just about any project possible as they're always a great learning experience. Recently I've been focusing on building full stack applications that use AI, Natural Language Processing, and distributed systems. With AI being so prevalent, I like to take the time to understand how things work under the hood as I find it important to use AI accelerate my learning of new technologies.
 
-Recently, I've been focused on building useful AI-powered applications and making them reliable outside of a demo. I'm especially interested in the engineering behind retrieval, inference, evaluation, and efficient agent workflows.
+If you'd like to work on a project or have any questions about my repositories, feel free to email me: augustahmed5678@gmail.com
 
 ### Selected Projects
 
@@ -105,10 +105,20 @@ A mix of tools I have used in coursework, internships, and personal projects.
 
 ### Experience
 
-**Software Engineer Intern — State Street, Charles River Development**  
-*June–August 2026*
+### Software Engineer Intern | State Street – Charles River Development
+*June 2026 – August 2026*
 
-Worked on AI agents, internal developer tools, and automated testing. I developed reusable agent skills for processing documentation into knowledge base content, built tools to analyze C# test suites, and worked on retrieval-based systems that supported engineers writing new tests. By moving repeatable work into modular Python scripts, I reduced token usage by up to **50%** in some agent workflows.
+At State Street, I worked on building AI-powered developer tools and automated testing workflows for Charles River Development's investment management software. My primary focus was improving how engineers access internal documentation, understand existing codebases, and use AI to accelerate test development.
+
+- **AI Agent Development:** Built reusable `SKILL.md` and `AGENTS.md` configurations to automate the extraction and conversion of internal documentation into structured knowledge bases. Integrated deterministic Python scripts and modular agent workflows to improve reliability and reduce token usage by up to **50%**.
+
+- **Multi-Agent Systems:** Developed a three-agent pipeline that analyzed C# frontend test suites to identify existing test entry points, map functionality, and assess test coverage. This helped engineers understand where existing tests could be reused and where additional coverage was needed.
+
+- **Retrieval-Augmented Generation (RAG):** Designed a knowledge retrieval system using embeddings, vector similarity search, and iterative query refinement. The agent provided source-grounded answers from internal documentation, allowing engineers to use AI to develop new test cases with relevant technical context.
+
+- **Automated Testing:** Implemented API testing workflows using BEATS, an internal Cucumber-based framework. Integrated these workflows into the automated test suite to support consistent validation of backend functionality.
+
+This internship strengthened my interest in AI engineering, particularly building agents that can effectively manage context, retrieve relevant information, and combine LLM capabilities with reliable, deterministic tools.
 
 ### What I'm Exploring
 

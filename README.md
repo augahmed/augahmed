@@ -13,7 +13,7 @@ Minor in Economics · Class of 2027
 
 ### About Me
 
-I'm a mathematics and computer science student who enjoys working on just about any project possible as they're always a great learning experience. Recently I've been focusing on building full stack applications that use AI, Natural Language Processing, and distributed systems. With AI being so prevalent, I like to take the time to understand how things work under the hood as I find it important to use AI accelerate my learning of new technologies.
+I'm a mathematics and computer science student who enjoys working on just about any project possible as they're always a great learning experience. Recently I've been focusing on building full stack applications that use AI, Natural Language Processing, and distributed systems. With AI being so prevalent, I like to take the time to understand how things work under the hood as I find it important to use AI as a tool to accelerate my learning of new technologies.
 
 If you'd like to work on a project or have any questions about my repositories, feel free to email me: augustahmed5678@gmail.com
 
